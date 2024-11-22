@@ -6,8 +6,6 @@
 
 </div>
 
----
-
 ## Table of Contents
 
 <!-- TOC -->
@@ -23,7 +21,6 @@
 <!-- TOC -->
 
 ---
-
 
 ## Getting Started
 
